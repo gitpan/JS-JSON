@@ -1,0 +1,17 @@
+---
+abstract: 'JSON code from json.org for JS-CPAN'
+author: ~
+distribution_type: module
+generated_by: 'Module::Install version 0.75'
+license: 'Public Domain'
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+  version: 1.3
+name: JS-JSON
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  JS: 0
+version: 0.01
