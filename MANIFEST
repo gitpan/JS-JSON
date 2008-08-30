@@ -14,3 +14,15 @@ MANIFEST			This list of files
 META.yml
 README
 t/00_load.t
+tests/basics.t.html
+tests/config.yaml
+tests/index.html
+tests/lib/Test/Base.js
+tests/lib/Test/Builder.js
+tests/lib/Test/Harness.js
+tests/lib/Test/Harness/Browser.js
+tests/lib/Test/JSON.js
+tests/README
+tests/t/basics.t.js
+tests/template/index.html
+tests/template/test.html

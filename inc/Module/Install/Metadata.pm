@@ -389,7 +389,7 @@ sub license_from {
 	return 'unknown';
 }
 
-sub install_script {
+sub install_script_xxx {
 	my $self = shift;
 	my $args = $self->makemaker_args;
 	my $exe  = $args->{EXE_FILES} ||= [];
